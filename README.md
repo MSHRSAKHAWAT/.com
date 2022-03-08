@@ -1,2 +1,2 @@
 # developer
-https://mshrsakhawat.github.io/.com/
+https://mshrsakhawat.github.io/developer/
