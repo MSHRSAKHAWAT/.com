@@ -1,2 +1,2 @@
 # developer
- https://mshrsakhawat.github.io/dev/
+ https://sakhawatdev.github.io/dev/
